@@ -1,0 +1,14 @@
+.myBackgroundImage {
+  box-sizing: border-box;
+  background-image: linear-gradient(
+    105deg,
+    white 0%,
+    white 58%,
+    transparent 20%
+  );
+}
+
+.zindexBackground {
+  position: absolute;
+  z-index: -1;
+}
