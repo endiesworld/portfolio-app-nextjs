@@ -7,18 +7,21 @@ import Github from '../public/images/icons8-github.svg' ;
 import styles from './contentHolder.module.css' ;
 
 const icons = [Twitter, Linkedin, Github] ;
+const links = ['#', 'https://www.linkedin.com/in/emmanuel-okoro-902bb963/','https://github.com/endiesworld'] ;
 
 export default function IconsHolder(){
     return(
-        <div className = 'mx-6 mb-16 w-1/2 h-14 flex justify-start'>
+        <div className = 'mt-3 w-full flex justify-start '>
             {
                 icons.map((icon, index) => (
-                    <div key = {index} className ='flex justify-center rounded-full w-10  mr-6 h-10'>
-                        <Image 
-                            src={icon}
-                            alt="Profile image"
-                            
-                        />
+                    <div key = {index} className ='flex justify-center w-12  mr-6 h-16'>
+                        <a href={links[index]} className = ' w-full h-full '>
+                            <Image 
+                                src={icon}
+                                alt="Profile image"
+                                
+                            />
+                        </a>
                     </div>
                 ))
             }
