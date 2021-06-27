@@ -3,7 +3,7 @@ import IconsHolder from '../components/socialMediaIconsHolder' ;
 
 export default function About(){
     return(
-        <div className= 'w-screen'>
+        <div className= 'w-screen relative'>
             <header className= ' w-full bg-indigo-900 h-32 text-xs flex justify-center font-serif '>
                 <Header2/>
             </header>
