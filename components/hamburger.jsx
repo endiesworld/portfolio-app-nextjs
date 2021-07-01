@@ -33,7 +33,7 @@ export default function Hamburger({updateHeaderClasses,  headerClassesOptions}){
     }
 
     return (
-         <div className = 'w-8 h-10 ml-14 sm:hidden z-20 ' onClick = { ()=> menueOption(!showMenue)} >
+         <div className = 'w-8 h-10 ml-14 md:hidden z-20 ' onClick = { ()=> menueOption(!showMenue)} >
             <div className= {topClass}></div>
             <div className= {middleClass}></div>
             <div className= {bottomClass}></div>

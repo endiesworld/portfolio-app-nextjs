@@ -12,3 +12,23 @@
   position: absolute;
   z-index: -1;
 }
+
+.portfolio::before {
+  content: "";
+  border: 2px;
+  border-color: red;
+  border-style: solid;
+}
+
+.scrollBar::-webkit-scrollbar {
+  width: 0.5em;
+  height: 10px;
+}
+.scrollBar::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(92, 86, 86, 0.3);
+  box-shadow: inset 0 0 6px rgba(92, 86, 86, 0.3);
+}
+.scrollBar::-webkit-scrollbar-thumb {
+  background-color: rgb(151, 123, 123);
+  outline: 1px solid rgb(151, 123, 123);
+}
