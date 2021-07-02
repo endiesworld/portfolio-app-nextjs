@@ -3,7 +3,7 @@ export default function AboutBarx(){
          <div className= {`lg:grid lg:grid-cols-12 justify-items-stretch items-stretch grid-flow-row flex flex-col justify-center items-center`}>
                 <p className ='lg:flex hidden w-full col-span-2 sm:col-span-1 mt-6 text-center text-gray-900 justify-center font-semibold'>2020-2021</p>
                 <div className ='flex flex-col col-span-10 lg:border-l-2 border-gray-500'>
-                    <div className = {`text-gray-500 w-full border-l-2 pl-6 flex flex-col lg:flex-row mr-1`}>
+                    <div className = {`text-gray-500 w-full sm:border-l-2 sm:pl-6 flex flex-col lg:flex-row mr-1`}>
                         <div className = {`lg:w-1/2 w-full mt-6 pb-6 text-gray-300`}>
                             <h1 className='text-2xl mb-4 text-gray-900 font-semibold'>Bar-X</h1>
                             <p className='text-gray-500 mb-6 ' >
@@ -33,6 +33,10 @@ export default function AboutBarx(){
                                     <p className='bg-pink-900 text-white py-1 px-2 mr-2'>
                                         Redux
                                     </p>
+                                    <p className='bg-pink-900 text-white py-1 px-2 mr-2'>
+                                        D3js
+                                    </p>
+                                    
                                     <p className='bg-pink-900 text-white py-1 px-2  mr-2'>
                                         Firebase
                                     </p>
@@ -42,9 +46,9 @@ export default function AboutBarx(){
                                 </div>
                             </div>
                         </div>
-                        <div className='w-full lg:w-1/2 h-40 bg-black border-2 border-gray-500 my-6 ml-2' ></div>
+                        <div className=' lg:w-1/2 h-40 bg-black border-2 border-gray-500 my-6 sm:ml-2' ></div>
                     </div>
-                    <div className=' w-full border-b-2 border-gray-500 ml-6 text-gray'></div>
+                    <div className='  border-b-2 border-gray-500 sm:ml-6 text-gray'></div>
                 </div>
         </div>
     )

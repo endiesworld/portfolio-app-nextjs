@@ -11,7 +11,11 @@ module.exports = {
       minWidth: {
        '0': '0',
        '1/4': '50%'
-      }
+      },
+      gridTemplateRows: {
+
+         'mylayout': '10rem minmax(50rem, auto) 10rem',
+        }
   },
   variants: {
     extend: {},
