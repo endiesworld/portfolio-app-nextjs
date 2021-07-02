@@ -12,18 +12,18 @@ export default function About(){
                     <h2>
                         Hi &#128075;,I am<span className='font-bold'> Emmanuel</span>.
                     </h2>
-                    <p className = ' sm:mt-5 sm:max-w-2xl lg:mx-0'>
-                        <span className='pl-4 sm:pl-0'>I am an electrical engineer, and a software developer from Nigeria.</span>
+                    <p className = 'mt-3 sm:mt-5 sm:max-w-2xl lg:mx-0'>
+                        I am an electrical engineer, and a software developer from Nigeria.
                         I was born in 1986(old right ?), grew up in Lagos and currently lives in Lagos, Nigeria. 
                     </p>
                     <p className = 'mt-3 sm:mt-5 sm:max-w-xl lg:mx-0'>
-                        <span className='pl-4 sm:pl-0'>I hold a B.Eng</span> and MSc. in Electrical Engineering from University of Nigeria Nsukka(UNN), and University of Lagos (UniLag) respectively, with strong bias in automation and control.
+                        I hold a B.Eng and MSc. in Electrical Engineering from University of Nigeria Nsukka(UNN), and University of Lagos (UniLag) respectively, with strong bias in automation and control.
                     </p>
                     <p className = 'mt-3 sm:mt-5 sm:max-w-2xl lg:mx-0'>
-                        <span className='pl-4 sm:pl-0'>I worked as and electrical</span> and automation engineer for six years with companies in Engineering and Oil and Gas sectors in Nigeria, before deciding to switch to what makes me happier as an engineer( Software Developer)  
+                        I worked as and electrical and automation engineer for six years with companies in Engineering and Oil and Gas sectors in Nigeria, before deciding to switch to what makes me happier as an engineer( Software Developer)  
                     </p>
                     <p className = 'mt-3  sm:mt-5 sm:max-w-2xl lg:mx-0'>
-                        <span className='pl-4 sm:pl-0'>I started</span> working profesionally as a software developer in 2019, and have written codes professionally for <a href='https://www.sahara-group.com/' className='text-pink-600'>Sahara-group,</a> <a href='https://emergencyresponseafrica.com/ ' className='text-pink-600'>Emergency Response Africa,</a><a href='#' className='text-pink-600'> Izigo Nigeria,</a> <a className='text-pink-600' href='https://github.com/endiesworld'>and open source.</a> 
+                        I started working profesionally as a software developer in 2019, and have written codes professionally for <a href='https://www.sahara-group.com/' className='text-pink-600'>Sahara-group,</a> <a href='https://emergencyresponseafrica.com/ ' className='text-pink-600'>Emergency Response Africa,</a><a href='#' className='text-pink-600'> Izigo Nigeria,</a> <a className='text-pink-600' href='https://github.com/endiesworld'>and open source.</a> 
                     </p>
                     <p className = 'mt-3  sm:mt-5 sm:max-w-2xl  lg:mx-0'>
                         Feel free to link up with me on any of the social media platform listed below.

@@ -1,10 +1,12 @@
-import Image from 'next/image' ;
 
 import Header2 from '../components/header2' ;
 import IconsHolder from '../components/socialMediaIconsHolder' ;
 import styles from '../components/contentHolder.module.css' ;
 import Projects from '../components/projects' ;
 import AboutBarx from '../components/aboutBarX' ;
+import AboutDevPlacement from '../components/aboutDevPlacement' ;
+import AboutEra from '../components/aboutERA' ;
+
 
 
 
@@ -20,7 +22,8 @@ export default function Portfolio(){
                             <p className = 'mx-auto text-xl font-sans mb-6 font-extralight'> The below are some of my works. Except otherwise stated, all front-end and back-end for every project stated here were completely done by me.</p>
                             <Projects />
                             <AboutBarx />
-                            <AboutBarx />
+                            <AboutEra />
+                            <AboutDevPlacement />
                         </div>
                 </div> 
 

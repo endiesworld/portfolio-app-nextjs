@@ -51,7 +51,7 @@ export default function AboutBarx(){
                             </div>
                         </div>
                         <div className=' lg:w-1/2 my-6 sm:ml-2' >
-                             <Image
+                            <Image
                                 src={BarXImage}
                                 alt="Barx image"
                                 objectFit='scale-down'
