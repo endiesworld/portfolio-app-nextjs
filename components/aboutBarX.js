@@ -1,3 +1,7 @@
+import Image from 'next/image' ;
+import BarXImage from '../public/images/barx.jpg';
+
+
 export default function AboutBarx(){
     return (
          <div className= {`lg:grid lg:grid-cols-12 justify-items-stretch items-stretch grid-flow-row flex flex-col justify-center items-center`}>
@@ -46,7 +50,14 @@ export default function AboutBarx(){
                                 </div>
                             </div>
                         </div>
-                        <div className=' lg:w-1/2 h-40 bg-black border-2 border-gray-500 my-6 sm:ml-2' ></div>
+                        <div className=' lg:w-1/2 my-6 sm:ml-2' >
+                             <Image
+                                src={BarXImage}
+                                alt="Barx image"
+                                objectFit='scale-down'
+                                
+                            />
+                        </div>
                     </div>
                     <div className='  border-b-2 border-gray-500 sm:ml-6 text-gray'></div>
                 </div>

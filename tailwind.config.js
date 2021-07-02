@@ -15,6 +15,7 @@ module.exports = {
       gridTemplateRows: {
 
          'mylayout': '10rem minmax(50rem, auto) 10rem',
+         'aboutlayout': '10rem minmax(30rem, auto) 10rem',
         }
   },
   variants: {

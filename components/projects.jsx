@@ -1,6 +1,7 @@
 import Link from 'next/link' ;
 
 
+
 export default function Projects(){
     return (
          <div className= {` lg:grid lg:grid-cols-12 justify-items-stretch items-stretch grid-flow-row flex flex-col justify-center items-center`}>
