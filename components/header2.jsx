@@ -38,7 +38,7 @@ function Header2(){
             <Link href="/about">
                 <a className = 'flex-initial text-center hover:text-white hover:bg-indigo-600 w-11 h-6 pt-1 rounded-md'> About  </a>
             </Link>
-            <Link href="/about">
+            <Link href="/contactMe">
                 <a className = 'flex-initial text-center hover:text-white hover:bg-indigo-600 w-20 h-6 pt-1 rounded-md'> Contact me.  </a>
             </Link>
         </div>

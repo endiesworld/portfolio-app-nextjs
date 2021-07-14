@@ -36,7 +36,6 @@ export default function About(){
                 <div className='ml-6 sm:ml-40 2xl:ml-60 w-full'>
                     <IconsHolder />
                 </div>
-                
             </footer>
         </div>
     )
