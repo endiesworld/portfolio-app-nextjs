@@ -29,9 +29,6 @@ function Header2(){
             </Link>
         </div>
         <div className = {` ${headerClasses}`}>
-            <Link href="/">
-                <a className = 'flex-initial text-center hover:text-white hover:bg-indigo-800 w-11 h-6 pt-1 rounded-md '> Blog </a>
-            </Link>
             <Link href="/portfolio">
                 <a className = 'flex-initial text-center hover:text-white hover:bg-indigo-800 w-14 h-6 pt-1 rounded-md '> Portfolio </a>
             </Link>
