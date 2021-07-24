@@ -1,10 +1,11 @@
 import Header2 from '../components/header2' ;
 import IconsHolder from '../components/socialMediaIconsHolder' ;
+import styles from '../components/contentHolder.module.css' ;
 
 export default function About(){
     return(
         <div className= 'w-full min-h-screen grid grid-rows-aboutlayout grid-cols-1 justify-items-stretch'>
-            <header className= ' h-full container mx-auto row-span-1 bg-indigo-900 text-xs flex justify-center font-serif '>
+            <header className= {` h-full container mx-auto row-span-1 text-xs flex justify-center font-serif ${styles.portfolio}` }>
                 <Header2/>
             </header>
             <section className= 'row-span-4 container mx-auto '>

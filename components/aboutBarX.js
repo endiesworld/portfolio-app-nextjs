@@ -5,7 +5,7 @@ import BarXImage from '../public/images/barx.jpg';
 export default function AboutBarx(){
     return (
          <div className= {`lg:grid lg:grid-cols-12 justify-items-stretch items-stretch grid-flow-row flex flex-col justify-center items-center`}>
-                <p className ='lg:flex hidden w-full col-span-2 sm:col-span-1 mt-6 text-center text-gray-900 justify-center font-semibold'>2020-2021</p>
+                <p className ='lg:flex hidden w-full col-span-2 sm:col-span-1 mt-6 sm:text-sm text-center text-gray-900 justify-center font-semibold'>2020-2021</p>
                 <div className ='flex flex-col col-span-10 lg:border-l-2 border-gray-500'>
                     <div className = {`text-gray-500 w-full sm:border-l-2 sm:pl-6 flex flex-col lg:flex-row mr-1`}>
                         <div className = {`lg:w-1/2 w-full mt-6 pb-6 text-gray-300`}>

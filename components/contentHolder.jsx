@@ -7,7 +7,7 @@ import IconsHolder from './socialMediaIconsHolder' ;
 
 const ContentHolder = () => {
     return (
-        <div className = {`absolute z-10  min-w-full  grid grid-rows-aboutlayout bg-transparent sm:bg-myGradient  `}>
+        <div className = {`absolute z-10  min-w-full  grid grid-rows-aboutlayout bg-transparent sm:bg-myGradient sm:border-2 `}>
             <header className= {`row-start-1 w-full sm:w-3/5 h-full pb-8 text-xs flex items-center font-serif ` }>
                 <Header/>
             </header>
