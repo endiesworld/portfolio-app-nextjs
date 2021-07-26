@@ -13,7 +13,7 @@ import MostPopularRepo from '../components/gitHubGraphql' ;
 
 export default function Portfolio(){
     return(
-        <div className ={` w-full min-h-screen relative flex justify-center `}>
+        <div className ={` min-w-full min-h-screen relative flex justify-center `}>
             <header className= {` w-full sm:fixed max-h-80  row-span-1 text-xs flex ${styles.portfolio}` }>
                 <div className ='w-1/6 min-h-full '></div>
                 <div className= ' w-2/3 h-80 row-span-1 text-xs flex flex-col justify-start items-center font-serif pb-6 '>

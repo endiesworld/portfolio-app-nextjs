@@ -28,9 +28,6 @@ export default function GitHubGraphQL(){
                                         TailwindCSS
                                     </p>
                                     <p className='bg-pink-900 text-white py-1 px-2 mr-2'>
-                                        JS
-                                    </p>
-                                    <p className='bg-pink-900 text-white py-1 px-2 mr-2'>
                                         Graphql
                                     </p>
                                     <p className='bg-pink-900 text-white py-1 px-2 mr-2'>

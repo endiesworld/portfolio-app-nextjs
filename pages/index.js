@@ -12,7 +12,7 @@ export default function Home() {
         <meta name="description" content="emmanuel okoro portfolio app" />
       </Head>
 
-      <main className='w-screen sm:mx-auto min-h-full '>
+      <main className='w-screen sm:mx-auto min-h-full'>
         <Homepage />
       </main>
     </div>
