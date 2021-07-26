@@ -1,5 +1,5 @@
 import Image from 'next/image' ;
-import DevPlaceImage from '../public/images/GithubRepositories.jpg';
+import DevPlaceImage from '../public/images/githubRepositories.jpg';
 
 
 export default function GitHubGraphQL(){
