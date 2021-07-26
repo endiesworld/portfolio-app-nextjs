@@ -1,5 +1,5 @@
 import Image from 'next/image' ;
-import GithubProject from '../public/images/githubrepositories.jpg';
+import GithubProject from '../public/images/popular-repositories.jpg';
 
 
 
