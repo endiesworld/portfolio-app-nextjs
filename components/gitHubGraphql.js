@@ -1,5 +1,6 @@
 import Image from 'next/image' ;
-import DevPlaceImage from '../public/images/githubrepositories.JPG';
+import GithubProject from '../public/images/githubrepositories.jpg';
+
 
 
 export default function GitHubGraphQL(){
@@ -40,7 +41,7 @@ export default function GitHubGraphQL(){
                         </div>
                         <div className=' lg:w-1/2 my-6 sm:ml-2' >
                             <Image
-                                src={DevPlaceImage}
+                                src={GithubProject}
                                 alt="Barx image"
                                 objectFit='scale-down'
                                 
