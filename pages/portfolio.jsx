@@ -9,6 +9,7 @@ import AboutEra from '../components/aboutERA' ;
 import MostPopularRepo from '../components/gitHubGraphql' ;
 import AboutIzigo from '../components/aboutIzigo' ;
 import AboutClimateChange from '../components/aboutClimateChange' ;
+import AboutSouthAfrica from '../components/aboutSouthAfricaLanguages' ;
 
 
 
@@ -31,6 +32,7 @@ export default function Portfolio(){
                             <p className = ' sm:mx-6 font-sans mb-6 text-gray-500 font-extralight lg:text-lg'> The below are some of my works. Except otherwise stated, all front-end and back-end for every project stated here were completely done by me.</p>
                             <Projects />
                             <AboutClimateChange />
+                            <AboutSouthAfrica />
                             <AboutIzigo />
                             <AboutBarx />
                             <AboutEra />
