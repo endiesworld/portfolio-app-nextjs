@@ -11,7 +11,7 @@ export default function AboutClimateChange(){
                         <div className = {`lg:w-1/2 w-full mt-6 pb-6 text-gray-300`}>
                             <h1 className='text-2xl mb-4 text-gray-900 font-semibold'>Climate change sentiment analysis</h1>
                             <p className='text-gray-500 mb-6 ' >
-                                A Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data.
+                                For this project, I lead a Team of Data Scientist, and we were tasked to build a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data.
                                 Providing an accurate and robust solution to this task gives companies access to a broad base of consumer sentiment, 
                                 spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies. 
                             </p>

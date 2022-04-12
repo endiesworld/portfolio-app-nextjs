@@ -18,7 +18,7 @@ export default function AboutIzigo(){
                                 like ours will enhance our capacity to provide fast and same
                                 day delivery services. 
                             </p>
-                            <a href ='https://hospital.emergencyresponseafrica.com/login' className='bg-pink-900 text-white py-1 px-2 '>View online</a>
+                            <a href ='https://www.izigo.ng' className='bg-pink-900 text-white py-1 px-2 '>View online</a>
                             <div className='mt-6'>
                                 <p className=' my-6 text-2xl text-gray-900 font-semibold'>
                                     Technologies

@@ -6,7 +6,7 @@ import Github from '../public/images/icons8-github.svg' ;
 
 
 const icons = [Twitter, Linkedin, Github] ;
-const links = ['#', 'https://www.linkedin.com/in/emmanuel-okoro-coren-902bb963/','https://github.com/endiesworld'] ;
+const links = ['https://twitter.com/ndubuisi_ok', 'https://www.linkedin.com/in/emmanuel-okoro-902bb963/','https://github.com/endiesworld'] ;
 
 export default function IconsHolder(){
     return(

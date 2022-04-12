@@ -14,7 +14,7 @@ export default function About(){
                         Hi &#128075;,I am<span className='font-bold'> Emmanuel</span>.
                     </h2>
                     <p className = 'mt-3 sm:mt-5 sm:max-w-2xl lg:mx-0'>
-                        I am an electrical engineer, and a software developer from Nigeria.
+                        I am a data scientist, full-stack developer and an electrical & Instrumentation engineer, from Nigeria.
                         I was born in 1986(old right ?), grew up in Lagos and currently lives in Lagos, Nigeria. 
                     </p>
                     <p className = 'mt-3 sm:mt-5 sm:max-w-xl lg:mx-0'>
@@ -24,7 +24,12 @@ export default function About(){
                         I worked as and electrical and automation engineer for six years with companies in Engineering and Oil and Gas sectors in Nigeria, before deciding to switch to what makes me happier as an engineer( Software Developer)  
                     </p>
                     <p className = 'mt-3  sm:mt-5 sm:max-w-2xl lg:mx-0'>
-                        I started working profesionally as a software developer in 2019, and have written codes professionally for <a href='https://www.sahara-group.com/' className='text-pink-600'>Sahara-group,</a> <a href='https://emergencyresponseafrica.com/ ' className='text-pink-600'>Emergency Response Africa,</a><a href='#' className='text-pink-600'> Izigo Nigeria,</a> <a className='text-pink-600' href='https://github.com/endiesworld'>and open source.</a> 
+                        I started working profesionally as a data scientist in 2022, and as a full-stack developer in 2019. I have proferred solutions and written codes professionally for 
+                        <a href='https://explore-datascience.net/' className='text-pink-600'> Explore Data Science Academy (South Africa), </a> 
+                        <a href='www.sahara-group.com/' className='text-pink-600'> Sahara-group (Nigeria), </a> 
+                        <a href='https://www.Izigo.ng' className='text-pink-600'> Izigo (Nigeria),</a> 
+                        <a href='https://emergencyresponseafrica.com/ ' className='text-pink-600'>Emergency Response Africa, </a>
+                        <a className='text-pink-600' href='https://github.com/endiesworld'>and open source.</a> 
                     </p>
                     <p className = 'mt-3  sm:mt-5 sm:max-w-2xl  lg:mx-0'>
                         Feel free to link up with me on any of the social media platform listed below.
